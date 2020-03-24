@@ -1,0 +1,4 @@
+# liste des fichiers et dossiers que l'ont ne veut pas versionner (sur GIT)
+
+# exclut le répertoire de travail de PHP Storm
+/.idea/
